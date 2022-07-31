@@ -1,6 +1,6 @@
 ### Hi there 👋
-🔭 I’m currently working on studying Data Science at Jovian. 
-🌱 I’m currently learning Data Science and Machine Learning. 
+- 🔭 I’m currently working on studying Data Science at Jovian. 
+- 🌱 I’m currently learning Data Science and Machine Learning. 
 <!--
 **samjeffcoat/samjeffcoat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
