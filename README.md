@@ -1,6 +1,8 @@
 ### Hi there 👋, I'm Samuel Jeffcoat 
 - 🔭 I’m currently working on studying Data Science at Jovian. 
-- 🌱 I’m currently learning Data Science and Machine Learning. 
+- 🌱 I’m currently learning Machine Learning. 
+- 📫 How to reach me: samjeffcoat@gmail.com
+- 👨🏻‍💻 Connect with me: twitter.com/samjeffcoat linkedin.com/samjeffcoat
 
 ## I have completed
 
