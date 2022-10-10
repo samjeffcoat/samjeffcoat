@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on studying Data Science at Jovian. 
 - 🌱 I’m currently learning Machine Learning. 
 - 📫 How to reach me: samjeffcoat@gmail.com
-- 👨🏻‍💻 Connect with me: https://twitter.com/samjeffcoat https://linkedin.com/samjeffcoat
+- 👨🏻‍💻 Connect with me: [Twitter](https://twitter.com/samjeffcoat) [LinkedIn](https://linkedin.com/samjeffcoat)
 
 ## I have completed
 
