@@ -30,11 +30,7 @@ My Projects
   - Created Dashboard for Sales attribute and Ratings attribute with bar charts and scatter plots
   - Etaion Shrdlu Press dominates publisher spending, but sales were close with Palimpest
   
-  
-  - 🌱 I’m currently learning Machine Learning.
-  - 📫 How to reach me: samjeffcoat@gmail.com
-  
-  
+    
 <!--
 **samjeffcoat/samjeffcoat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
